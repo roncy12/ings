@@ -1,0 +1,21 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {
+      "delivery-express.html": "/delivery-express/"
+
+    },
+    "page": {
+      "new-blog.html":"/product-demo/",
+      "landing-p.html":"/landing-page/",
+      "super-saturday.html":"/super-saturday/",
+      "christmas-closeout.html":"/christmas-closeout/",
+      "nectar-landing-page.html":"/nectar-landing-page/",
+      "secta-artic-landing-page.html":"/serta-arctic-landing-page/",
+      "before-afer-christmas-sale.html":"/before-after-christmas-sale/"
+    },
+    "product": {}
+  },
+  "normalStoreUrl": "https://kingsgreatbuys.com",
+  "port": "3007"
+}

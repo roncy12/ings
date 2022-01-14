@@ -1,0 +1,14 @@
+<ul class="productGrid">
+
+</ul>
+
+<script>
+        $(".fword").each(function() {
+             if($(this).html().indexOf('Description') > -1 ){
+                $(this).html( $(this).html().split('Description').join('<label class="summary-description"><strong>Description</strong></label><br>'));
+            }
+        });
+
+</script>
+<script src="//filter.freshclick.co.uk/assets/client/freshclick-filter.js?2201130645" data-site="bek4r4rsz5" data-cat="{{category.id}}" data-brand="{{brand.name}}" id="fresh_filter" data-customer-group="{{customer.customer_group_id}}" defer></script>
+
